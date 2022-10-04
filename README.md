@@ -1,2 +1,2 @@
-# projeto_python_pandas
+# Projeto Python Pandas
 Análise de dados com Python e Pandas
